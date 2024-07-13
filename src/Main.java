@@ -8,6 +8,8 @@ public class Main {
 		int cmd2 = scanner.nextInt();
 		System.out.println(cmd + cmd2);
 		System.out.println("==프로그램 종료==");
+		
+		System.out.println("테스트");
 		scanner.close();
 	}
 }
